@@ -1,0 +1,55 @@
+#font1{
+    font-family:"Helvetic Neue", sans-serif;
+}
+
+#font2{
+    font-family:"Times New Roman", Times, serif;
+}
+
+#centered{
+    margin: auto;
+    width: 222px;
+    padding-bottom: 10px;
+}
+
+#dotted{
+    border-width: 2px;
+    border-color: green;
+    border-style: dotted;
+    padding-left: 25px;
+}
+
+#container-starfish{
+    border-width: 3px;
+    border-color: blue;
+    border-style: solid;
+    border-radius: 5px;
+    width: 125px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+#float-right{
+    float: right;
+}
+#float{
+    float: left;
+}
+
+#puppy{
+    margin: 20px;
+}
+
+#image-title{ 
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#center-text{
+  position: relative;
+  text-align: center;
+  color: white;
+  height: 300px;
+}
