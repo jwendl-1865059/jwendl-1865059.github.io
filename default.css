@@ -1,0 +1,86 @@
+.grid-item .project-description {
+    background-color: rgb(194, 216, 185, 0.7);  
+}
+
+.recipe-link {
+    color: #738290;
+}
+
+.nav li a:hover { 
+    color: #A1B5D8;
+
+}
+
+.site-brand {
+    color: #A1B5D8;
+    text-shadow: 1px 1px #738290;
+}
+
+.site-brand:hover {
+    color: #738290;
+    text-shadow: 1px 1px #738290;
+}
+
+.site-logo {
+    height: 50px;
+    width: 60px;
+}
+
+.fa {
+    color: #A1B5D8;
+}
+
+#description {
+    color: #A1B5D8;
+}
+
+.hero-full-wrapper {
+    background-color: rgb(115, 130, 144, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sidebar {
+    background-color: #FFFCF7;
+}
+
+body {
+    background-color: #FFFCF7;
+}
+
+#main-collapse {
+    background-color: #FFFCF7;
+}
+
+#blueberry-img {
+    background-color: #738290;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: #A1B5D8;
+}
+
+h3 {
+    color: #A1B5D8;
+}
+
+.btn-primary {
+    background-color: #A1B5D8;
+    border-color: #A1B5D8;
+}
+
+.btn-primary:hover {
+    background-color: #738290;
+    border-color: #738290;
+}
+
+.btn-primary:focus {
+    background-color: #738290;
+    border-color: #738290;
+}
+
+.img-titles {
+    color: black;
+}
